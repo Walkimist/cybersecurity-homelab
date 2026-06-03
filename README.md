@@ -22,13 +22,29 @@ You can view more details about the different OS's being used and their configur
                       │
               Oracle VirtualBox
                       │
+               192.168.56.0/24
         ┌─────────────┴─────────────┐
         │                           │
         │                           │
   Ubuntu Server                 Kali Linux
-  192.168.56.101              
+  192.168.56.101                   nmap
        SSH
 ```
+---
+## VM Uses
+
+### Ubuntu Server:
+- Linux administration practice
+- SSH remote management
+- Service deployment and configuration
+- Firewall and system hardening
+- Network security testing
+
+### Kali Linux:
+- Network enumeration
+- Nmap scanning
+- Linux practice
+- Cybersecurity labs
 ---
 
 ## VM Configurations
@@ -40,17 +56,17 @@ You can view more details about the different OS's being used and their configur
 | CPU | 1 vCPU |
 | Disk | 20 GB |
 
-### Kali Attacker
+### Kali Linux
 
 | Resource | Amount |
 |---|---|
 | RAM | 4096 MB |
 | CPU | 2 vCPU |
 | Disk | 30 GB |
+---
 
 ## To-do
 
-- Install Kali Linux
 - Learn Nmap
 - Configure firewall
 - Build internal lab network
