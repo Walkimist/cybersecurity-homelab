@@ -67,6 +67,6 @@ You can view more details about the different OS's being used and their configur
 
 ## To-do
 
-- Learn Nmap
+- Install Apache on Ubuntu
+- Learn Nmap scripting (NSE).
 - Configure firewall
-- Build internal lab network
